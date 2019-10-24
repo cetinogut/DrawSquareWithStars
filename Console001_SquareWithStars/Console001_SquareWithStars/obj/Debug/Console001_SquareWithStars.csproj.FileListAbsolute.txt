@@ -1,0 +1,6 @@
+E:\000_COGUT_visual\03_C# Self-Teach\Console001_SquareWithStars\Console001_SquareWithStars\bin\Debug\Console001_SquareWithStars.exe.config
+E:\000_COGUT_visual\03_C# Self-Teach\Console001_SquareWithStars\Console001_SquareWithStars\bin\Debug\Console001_SquareWithStars.exe
+E:\000_COGUT_visual\03_C# Self-Teach\Console001_SquareWithStars\Console001_SquareWithStars\bin\Debug\Console001_SquareWithStars.pdb
+E:\000_COGUT_visual\03_C# Self-Teach\Console001_SquareWithStars\Console001_SquareWithStars\obj\Debug\Console001_SquareWithStars.csprojAssemblyReference.cache
+E:\000_COGUT_visual\03_C# Self-Teach\Console001_SquareWithStars\Console001_SquareWithStars\obj\Debug\Console001_SquareWithStars.exe
+E:\000_COGUT_visual\03_C# Self-Teach\Console001_SquareWithStars\Console001_SquareWithStars\obj\Debug\Console001_SquareWithStars.pdb
